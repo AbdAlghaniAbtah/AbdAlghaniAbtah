@@ -27,13 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Abd Alghani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdAlghaniAbtah&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlghaniAbtah&layout=compact&theme=dark)
-
----
-
 📫 **How to reach me:**  
-- **LinkedIn:** [Abd Alghani Abtah](https://www.linkedin.com/in/abd-alghani-abtah-031a1734b/)
+- **LinkedIn:** [Abd Alghani Abtah](https://linkedin.com)
 - **Location:** Irbid, Jordan
