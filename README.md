@@ -35,5 +35,5 @@
 ---
 
 📫 **How to reach me:**  
-- **LinkedIn:** [Abd Alghani Abtah]([https://linkedin.com](https://www.linkedin.com/in/abd-alghani-abtah-031a1734b/))
+- **LinkedIn:** [Abd Alghani Abtah](https://www.linkedin.com/in/abd-alghani-abtah-031a1734b/)
 - **Location:** Irbid, Jordan
